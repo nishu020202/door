@@ -1,0 +1,52 @@
+.header{
+	color: white;
+	background: rgb(55, 118, 219 );
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 80px;
+	padding-left: 80px;
+}
+
+.navLines{
+	color: white;
+}
+
+.projectHeader{
+	background: mintcream;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 80px;
+	padding-right: 330px;
+}
+
+.disabled{
+	color: grey;
+
+}
+.left{
+	float: left;
+}
+
+
+
+.footer{
+	color: rgb(105, 193, 224);
+	background: rgb(56, 53, 53 );
+	padding-top: 60px;
+	padding-bottom: 60px;
+	padding-right: 190px;
+	padding-left: 190px;
+}
+
+.white{
+	color: white;
+}
+
+.foots{
+	background: rgb(56, 53, 53 );
+}
+
+.centre{
+	padding: auto;
+	text-align: center;
+}
